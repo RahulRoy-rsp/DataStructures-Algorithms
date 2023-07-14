@@ -2,7 +2,6 @@ arr = list(map(int, input("Enter the numbers separated by space: ").split()))
 
 print("Sorting the array... ")
 
-
 def mergeSort(arr):
     if len(arr) > 1:
 
