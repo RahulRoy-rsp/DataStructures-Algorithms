@@ -1,7 +1,6 @@
 arr = list(map(int, input("Enter the numbers separated by space: ").split()))
 
 toSearch = int(input("Enter an element to search to the arr: "))
-
 print("Searching", toSearch, "in array:", arr)
 
 
